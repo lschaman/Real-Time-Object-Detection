@@ -161,18 +161,18 @@ python predict.py --image test.jpg
 
 ---
 
-## 🎯 Live Demo
+<h3>🎯 Live Demo</h3> 
 
 <p align="center">
-  <img src="assets/demo.gif" width="850" alt="CNNVision Demo"/>
+  <img src="assets/gifts/gifj.gif" width="850" alt="CNNVision Demo"/>
 </p>
 
 ---
 
-## 📸 Screenshots
+<h3>📸 Screenshots</h3> 
 
 <p align="center">
-  <img src="assets/output.png" width="850" alt="Detection Output"/>
+  <img src="assets/gifts/detection.jpeg" width="750" alt="Detection Output"/>
 </p>
 
 ---
